@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: darkgray;
+}
+footer {
+  text-align: center;
+  border: 2.5px dotted red;
+}
+/*.red_border {
+  border: 2px dotted red;
+}*/
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: brown;
+}
+.box-1 {
+  background-color: rebeccapurple;
+  color: aquamarine;
+  text-align: left;
+}
+.link {
+  background-color: burlywood;
+  color: darkblue;
+}
+#button1 {
+  background-color: darkolivegreen;
+  color: darkorange;
+  line-height: 1.6em;
+}
+button {
+  background-color: rgb(204, 18, 148);
+  color: rgb(0, 255, 42);
+  line-height: 1.6em;
+}
+#button3 {
+  background-color: rgb(38, 4, 228);
+  color: rgb(221, 236, 6);
+  line-height: 1.6em;
+}
+.vraag {
+  color: gold;
+  font: bold 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
